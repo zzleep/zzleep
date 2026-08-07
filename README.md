@@ -37,6 +37,8 @@ fun_fact:       "sudo make me a sandwich" never works, still tries daily
 
 ## ⚡ Tech Stack
 
+<table align="center" bgcolor="#0D1117" width="90%" cellpadding="12"><tr><td>
+
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
 ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
@@ -53,19 +55,21 @@ fun_fact:       "sudo make me a sandwich" never works, still tries daily
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
 
+</td></tr></table>
+
 </div>
 
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zzleep&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<img src="https://trophy.benkou.dev/?username=zzleep&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </div>
 
 ## 📡 `git log --stats`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zzleep&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzleep&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=zzleep&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zzleep&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
 </div>
 
 <div align="center">
@@ -91,12 +95,16 @@ $ echo "Currently building: Ledger"
 
 ## 📫 `contact --me`
 
+<table align="center" bgcolor="#0D1117" width="70%" cellpadding="12"><tr><td>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://www.linkedin.com/in/izacnicolasbolinas/)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117)](mailto:zacbolinas0@gmail.com)
 
 `> process exited with code 0`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzleep&label=TERMINAL+VISITORS&color=39FF14&style=flat-square&labelColor=0D1117)
+
+</td></tr></table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0D1117&height=100&section=footer"/>
 
