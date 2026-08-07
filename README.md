@@ -39,21 +39,21 @@ fun_fact:       "sudo make me a sandwich" never works, still tries daily
 
 <table align="center" bgcolor="#0D1117" width="90%" cellpadding="12"><tr><td>
 
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
-![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=07405E&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E76F00&labelColor=0D1117)
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=0D1117)
-![Vue](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=0D1117)
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
+![React Native](https://img.shields.io/badge/-React%20Native-white?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-white?style=for-the-badge&logo=expo&logoColor=000020)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQLite](https://img.shields.io/badge/-SQLite-white?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=181717)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=openjdk&logoColor=E76F00)
+![C++](https://img.shields.io/badge/-C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Vue](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzE1NzJCNiIgZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY0LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFoLTIuNjFsLjI5IDMuODU1TDEyIDE5LjI4OGw1LjM3My0xLjUzTDE4LjU5IDQuNDE0eiIvPjwvc3ZnPg%3D%3D)
 
 </td></tr></table>
 
@@ -97,7 +97,7 @@ $ echo "Currently building: Ledger"
 
 <table align="center" bgcolor="#0D1117" width="70%" cellpadding="12"><tr><td>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://www.linkedin.com/in/izacnicolasbolinas/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=0D1117)](https://www.linkedin.com/in/izacnicolasbolinas/)
 [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117)](mailto:zacbolinas0@gmail.com)
 
 `> process exited with code 0`
