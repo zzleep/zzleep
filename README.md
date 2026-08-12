@@ -73,10 +73,6 @@ fun_fact:       "sudo make me a sandwich" never works, still tries daily
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zzleep&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-</div>
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/zzleep/zzleep/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
